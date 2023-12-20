@@ -1,0 +1,167 @@
+/*----Home Page----*/
+.logo{
+width: 35%;
+height: 15%;
+margin-left: 1%;
+margin-top: 1%;
+
+    
+}
+.navbar{
+    float: right;
+     }
+     
+.navbar li{
+    display: inline;
+    margin: 10px;
+    font-size: 30px;
+     }
+
+button{
+    height: 40px;
+    width: 165px;
+    font-family: sans-serif;
+    font-size: 60%;
+    cursor: pointer;
+    border-color: white;
+    border-width: 0px;
+    }
+
+button:hover{
+    background-color: rgb(0, 114, 207);
+    background-size: 300%;
+    transition: 1s;
+    }
+
+.div1{
+    background-color: rgb(255, 255, 255);
+    padding: .2%;
+    opacity: 40%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.div2{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 1.5%;
+    margin-right: 8%;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 12px;
+    background-color: aliceblue;
+    padding: 10px;
+    opacity: 60%;
+}
+
+#ascotian{
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    }
+
+#list{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.Quality{
+    width: 40%;
+    height: 15%;
+    opacity: 70%;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.Mis{
+    float: right;
+    width: 40%;
+    height: 15%;
+    opacity: 70%;
+    margin-top: 1%;
+    margin-right: 3%;
+}
+
+.Vis{
+    margin-left: 3%;
+    float: left;
+    width: 40%;
+    height: 15%;
+    opacity: 70%
+}
+
+
+.Intrams{
+    margin-right: 12.5%;
+    float: right;
+    width: 20%;
+    height: 15%;
+    opacity: 70%
+
+}
+
+/*----Specializtions----*/
+.Courses{
+    text-align: left;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    opacity: 70%;
+    margin-top: 1%;
+    color: white;
+    text-align: justify;
+}
+
+/*----Contacts----*/
+
+.header1{
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+.soit{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+#IT{
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+}
+/*----About----*/
+.divalvin{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 1.5%;
+    margin-right: 8%;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 10px;
+    background-color: aliceblue;
+}
+
+.divgalang{
+    float: left;
+    text-align: center;
+    margin-top: 1.5%;
+    margin-left: 2.5%;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 12px;
+    background-color: aliceblue;
+}
+.divcorpuz{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 1.5%;
+    margin-right: 8%;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 12px;
+    background-color: aliceblue;
+}
